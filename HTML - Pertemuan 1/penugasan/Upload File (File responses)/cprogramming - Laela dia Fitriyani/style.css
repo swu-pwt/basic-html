@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url("../cprogramming/img/img.jpg") repeat fixed top left;
+}
+.header{
+	color: lightyellow;
+	text-align: center;
+	padding: 10px 0;
+	text-shadow: 3px 4px 5px black;
+}
+.link {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.link a{
+	color: salmon;
+	font-size: 15px;
+	background-color:#ffffff;
+	padding: 7px;
+	border-radius: 50%;
+	transition: 1s;
+}
+a:hover{
+	color: white;
+	background-color: transparent;
+	transform: rotateY(35deg);
+}
+.jumbotron{
+	background-color: #ffffff10;
+	backdrop-filter: blur(12px);
+	-webkit-backdrop-filter: blur(12px);
+	padding: 15%;
+	margin: 50px;
+	border-radius: 25px;
+}
+.jumbotron p{
+	font-family:serif;
+	font-size: 45px;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 5px 5px 5px black ;
+	margin: 15px;
+}
+.article{
+	color: #ffffff;
+	line-height: 20px;
+}

@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Spot Foto</title>
+<head>
+<body>
+<h1>Devita</h1>
+<a href="Home.html">Home</a>
+<a href="Artikel.html">Artikel</a>
+<a href="galeri.html">Galeri</a>
+<a href="tentang.html">Tentang</a>
+<hr>
+<h2>Selamat datang di website devita</h2>
+<h3>Artikel Baru</h3>
+<h4>Photo</h4>
+<img src="IMG/20200613_062326.jpg">
+<body>
+<html>

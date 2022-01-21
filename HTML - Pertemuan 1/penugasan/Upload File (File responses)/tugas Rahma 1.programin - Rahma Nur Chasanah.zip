@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Spot Foto</title>
+<head>
+<body>
+<h1>Rahma</h1>
+<a href="Home.html">Home</a>
+<a href="Artikel.html">Artikel</a>
+<a href="galeri.html">Galeri</a>
+<a href="tentang.html">Tentang</a>
+<hr>
+<h2>Selamat datang di website rahma</h2>
+<h3>Artikel Baru</h3>
+<h4>Photo</h4>
+<img src="IMG/20220116_055332_635.jpg">
+<body>
+<html>
